@@ -7,7 +7,10 @@
 <br>
 
 * 🌱 I’m currently learning more on:
-  * ETL & data pipline design, data preprocessing, machine learning models & libraries, and etc...
+ * ETL & data pipline design, 
+ * data preprocessing, 
+ * machine learning models & libraries, 
+ * and etc...
 and experimenting newly learnt skills on financial data
 * 👯 I’m looking to collaborate on more creative projects
 * 💬 Ask me anything you want, I am open to any kind of interesting discussion
