@@ -1,6 +1,7 @@
 # Hi there 👋 this is Andy
 ***
-I am an Analyst with 4+ years of experience in the financial industry with a Bachelor in information systems. I am also a CFA & CAIA who has a strong passion for data analysis. A self-confessed data and programming geek, I have always been fascinated with solving complex problems and I am excited to meet new people who share similar passions and value the craftsman’s spirit with me!
+## I am an Analyst with 4+ years of experience in the financial industry with a Bachelor in information systems. I am also a CFA & CAIA who has a strong passion for data analysis. <br>
+## A self-confessed data and programming geek, I have always been fascinated with solving complex problems and I am excited to meet new people who share similar passions and value the craftsman’s spirit with me!
 
 <br>
 - 🌱 I’m currently learning more on:
