@@ -2,6 +2,7 @@
 
 
 - 🌱 I’m currently learning more on:
+<br>
 ETL & data pipline design, data preprocessing, machine learning models & libraries, and etc...
 and experimenting newly learnt skills on financial data
 - 👯 I’m looking to collaborate on more creative projects
